@@ -54,7 +54,7 @@ const publications: Publication[] = [
       "Moontae Lee",
     ].map(findMember),
     description: [
-      "- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026",
+      "- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR Highlight**), 2026",
     ].join("\n"),
   },
   {

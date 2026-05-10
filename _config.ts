@@ -12,5 +12,6 @@ site.add("styles.css");
 site.add("scripts.js");
 site.data("layout", "layouts/main.tsx");
 site.ignore("docs");
+site.ignore("README.md");
 
 export default site;
