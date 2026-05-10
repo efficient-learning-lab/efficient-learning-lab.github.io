@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    main {
+        @apply text-gray-900;
+        h1 {
+            @apply text-4xl;
+            @apply font-bold;
+        }
+        h2 {
+            @apply text-2xl;
+            @apply font-bold;
+        }
+        h3 {
+            @apply text-xl;
+            @apply font-semibold;
+        }
+        h4 {
+            @apply text-lg;
+            @apply font-semibold;
+        }
+        a {
+            @apply text-blue-800;
+            @apply underline;
+        }
+        strong {
+            @apply font-semibold;
+        }
+        b {
+            @apply font-semibold;
+        }
+        ul {
+            @apply list-disc;
+            @apply list-outside;
+            @apply mx-6;
+        }
+    }
+}
