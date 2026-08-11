@@ -3,6 +3,7 @@ export interface Member {
   name: string;
   position: string;
   homepage?: string;
+  description?: string;
 }
 
 const members: Member[] = [
@@ -11,11 +12,6 @@ const members: Member[] = [
     name: "Hankook Lee",
     position: "Professor",
     homepage: "/members/hankook",
-  },
-  {
-    id: "@seoyoungp",
-    name: "Seoyoung Park",
-    position: "MS",
   },
   {
     id: "@jaebin.lee",
@@ -46,6 +42,14 @@ const members: Member[] = [
     id: "@taewoo.you",
     name: "Taewoo You",
     position: "MS",
+  },
+
+  // Alumni
+  {
+    id: "@seoyoungp",
+    name: "Seoyoung Park",
+    position: "alumni",
+    description: "(MS 2026), Samsung Electronics",
   },
 ];
 
