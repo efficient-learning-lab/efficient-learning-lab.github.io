@@ -249,27 +249,6 @@ const publications: Publication[] = [
     ].join("\n"),
   },
   {
-    id: "ADP",
-    date: "2024-01-16",
-    type: "Journal",
-    title: "Few-shot Anomaly Detection via Personalization",
-    authors: [
-      "Sangkyung Kwak",
-      "Jongheon Jeong",
-      "@hankook",
-      "Woohyuck Kim",
-      "Dongho Seo",
-      "Woojin Yun",
-      "Wonjin Lee",
-      "Jinwoo Shin",
-    ].map(findMember),
-    description: [
-      "- IEEE **Access**, 2024",
-      "- ICML Workshop on New Frontiers in Adversarial Machine Learning (AdvML-Frontiers), 2023",
-      "- Links: [paper](https://ieeexplore.ieee.org/document/10401164)",
-    ].join("\n"),
-  },
-  {
     id: "ProjectionRegret",
     date: "2023-12-10",
     type: "Conference",
