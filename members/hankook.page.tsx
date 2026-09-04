@@ -33,7 +33,7 @@ export default function (data: Lume.Data, _helpers: Lume.Helpers) {
       <div>
         <h3>Academic Services</h3>
         <ul>
-          <li><b>Area Chairs</b> - NeurIPS (2024~), ICML (2026)</li>
+          <li><b>Area Chairs</b> - NeurIPS (2024~), ICML (2026~), ICLR (2027~), AAAI (2027~)</li>
           <li><b>Conference Reviewers</b> - ICLR (2020~2026), NeurIPS (2020~2023), ICML (2021~2025), AAAI (2022~2026), ICCV (2025), CVPR (2026)
             <ul>
               <li>Self-supervised Learning Workshops - ICML (2021), NeurIPS (2021, 2022, 2024) ECCV (2022)</li>
@@ -41,6 +41,19 @@ export default function (data: Lume.Data, _helpers: Lume.Helpers) {
           </li>
           <li><b>Journal Action Editors</b> - TMLR (2024~)</li>
           <li><b>Journal Reviewers</b> - ACM TomPECS, IEEE TPAMI, JMLR, TMLR, Nature Communications</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Awards</h3>
+        <ul>
+          <li>Qualcomm-KAIST Innovation Awards (2019)</li>
+          <li>International Collegiate Programming Contest (ICPC)
+            <ul>
+              <li>Asia Daejeon Regional: Grand Prize (1st place, 2012), Gold Prize (2nd place, 2010)</li>
+              <li>Participated in ICPC World Finals 2013</li>
+            </ul>
+          </li>
+          <li>Korea Olympiad in Informatics (KOI) : Gold Prize (2009)</li>
         </ul>
       </div>
       <div>
