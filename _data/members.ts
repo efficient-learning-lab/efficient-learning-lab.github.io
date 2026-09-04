@@ -49,7 +49,7 @@ const members: Member[] = [
     id: "@seoyoungp",
     name: "Seoyoung Park",
     position: "alumni",
-    description: "(MS 2026), Samsung Electronics",
+    description: "(MS 2026), Samsung Research",
   },
 ];
 
