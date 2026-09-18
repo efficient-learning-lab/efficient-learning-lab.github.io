@@ -16,7 +16,7 @@ export default function ({ news }: ELL.Data, _helpers: Lume.Helpers) {
         We aim to enhance the efficiency of deep learning across various AI fields. We primarily focus on developing data-efficient algorithms and applying them to real-world problems. Key topics include:
         <ul>
           <li>Self-supervised learning, few-shot learning, meta-learning, transfer learning, continual learning, </li>
-          <li>Applications in computer vision (e.g., images), graphs (e.g., molecules), tabular data (e.g., financial/medical data).</li>
+          <li>Applications in computer vision (e.g., images), time-series (e.g., medical/sensor data), tabular data (e.g., financial/medical data).</li>
         </ul>
       </div>
       <div>
