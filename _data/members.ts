@@ -43,6 +43,11 @@ const members: Member[] = [
     name: "Taewoo You",
     position: "MS",
   },
+  {
+    id: "@eungyu.choi",
+    name: "Eungyu Choi",
+    position: "MS",
+  },
 
   // Alumni
   {
